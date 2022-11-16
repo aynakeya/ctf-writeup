@@ -1,0 +1,78 @@
+
+
+
+Input_Normal, Output_Normal => Result
+
+Input_Real,   Output_Real
+
+
+          U1 U2 U3
+          U4 U5 U6
+          U7 U8 U9
+
+L1 L2 L3  F1 F2 F3  R1 R2 R3  B1 B2 B3
+L4 L5 L6  F4 F5 F6  R4 R5 R6  B4 B5 B6
+L7 L8 L9  F7 F8 F9  R7 R8 R9  B7 B8 B9
+
+          D1 D2 D3
+          D4 D5 D6
+          D7 D8 D9
+
+U1U2U3U4U5U6U7U8U9 R1R2R3R4R5R6R7R8R9 F1F2F3F4F5F6F7F8F9 D1D2D3D4D5D6D7D8D9 L1L2L3L4L5L6L7L8L9 B1B2B3B4B5B6B7B8B9
+D3L4B1F5U5F6L3D6D9 R9R4U3U4R5U8U1D8D7 U7R8B7L6F5L2R1U6B3 F3R2L1L8D5B8L9B2L7 F9D2F1B4L5F4D1D4U9 R3B6R7F2B5R6B9U2F7
+
+          D3 L4 B1
+          F5 U5 F6
+          L3 D6 D9
+F9 D2 F1  U7 R8 B7  R9 R4 U3  R3 B6 R7
+B4 L5 F4  L6 F5 L2  U4 R5 U8  F2 B5 R6
+D1 D4 U9  R1 U6 B3  U1 D8 D7  B9 U2 F7
+          F3 R2 L1
+          L8 D5 B8
+          L9 B2 L7
+
+       O G W                                                                                                        
+       Y R Y                                                                                                        
+       G O O                                                                                                        
+Y O Y  R B W  B B R  B W B                                                                                           
+W G Y  G Y G  R B R  Y W B                                                                                           
+O O R  B R W  R O O  W R Y                                                                                           
+       Y B G                                                                                                        
+       G O W                                                                                                        
+       G W G        
+
+OGWYRYGOOBBRRBRROORBWGYGBRWYBGGOWGWGYOYWGYOORBWBBWYYRW
+
+       R U L
+       U U L
+       D U B
+F R F  L L R  D F F  U B U
+R L F  U F D  R R F  D B B
+B B U  L L B  R F F  R L D
+       B D U
+       D D R
+       L B D
+
+
+
+              O G W
+              Y R Y
+              G O O
+B W B  Y O Y  R B W  B B R
+Y W B  W G Y  G Y G  R B R
+W R Y  O O R  B R W  R O O
+              Y B G
+              G O W
+              G W G
+
+       O G W
+       Y R Y
+       G O O
+Y O Y  R B W  B B R  B W B
+W G Y  G Y G  R B R  Y W B
+O O R  B R W  R O O  W R Y
+       Y B G
+       G O W
+       G W G
+
+OGWYRYGOOBBRRBRROORBWGYGBRWYBGGOWGWGYOYWGYOORBWBBWYYRW
