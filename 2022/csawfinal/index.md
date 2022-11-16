@@ -15,6 +15,6 @@ Official Repo: [https://github.com/osirislab/CSAW-CTF-2022-Final-WriteUps](https
 
 # Challenges
 
-- [[rev] Word Wide Web](./rev/cube/)
+- [[rev] cube](./rev/cube/)
 - [[misc] MeMbrEy0 LEaK](./misc/MeMbrEy0_LEaK/)
 - [[misc] SupEr GUeSsEr G@me](./misc/SupEr_GUeSsEr_Game/)
