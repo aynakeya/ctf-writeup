@@ -9,6 +9,10 @@ date: 2022-03-07 11:25:27
 - [sigreturn](/2022/04/17/ctf/pwn-srop-power-of-sigreturn/)
 
 
+# 2023
+- [MagpieCTF 2023](./2023/magpiectf)
+- [LACTF 2023](./2023/lactf)
+
 # 2022
 - [AsisCTF Qualifications 2022](./2022/asisctfqual)
 - [SekaiCTF 2022](./2022/sekaictf)
