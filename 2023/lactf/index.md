@@ -13,6 +13,6 @@ date: 2023-02-13 03:44:00
 
 # Challenges
 
-- [[pwn] bot](./pwn/trivial)
-- [[pwn] rickroll](./pwn/lucky)
-- [[pwn] rut-roh-relro](./pwn/ctf_sim)
+- [[pwn] bot]
+- [[pwn] rickroll]
+- [[pwn] rut-roh-relro]
